@@ -42,3 +42,19 @@ apply changes made on django manager
 create a django app (that will serve to integrate and create request)
     
     python manage.py startapp students
+
+## GO
+
+Running GO
+    
+    go run fileName.go
+
+## FastAPI
+
+instaling uvicorn to run server
+
+    pip install uvicorn
+
+Running fast api
+
+    uvicorn python_file_name:app --reload
