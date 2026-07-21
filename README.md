@@ -20,7 +20,9 @@ activate it
 
     cd venv/scripts
         activate
-
+           OR
+    .\venv\Scripts\activate
+        
 installing django with venv activated
 
     pip install django
