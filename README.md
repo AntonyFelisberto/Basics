@@ -2,6 +2,10 @@
 
 ## React
 
+Install Vite
+
+    npm install -g create-vite
+
 Creating React Project
 
     npm create vite@latest react-app -- --template react
@@ -51,10 +55,17 @@ Running GO
 
 ## FastAPI
 
-instaling uvicorn to run server
+installing uvicorn to run server
 
     pip install uvicorn
 
 Running fast api
 
     uvicorn python_file_name:app --reload
+
+## Angular
+
+Install angular
+
+    npm install -g @angular/cli
+
