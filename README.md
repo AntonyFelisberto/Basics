@@ -41,11 +41,29 @@ create rest manager
 
 apply changes made on django manager
 
+    python manage.py makemigrations
+
+load changes made on django manager
+
     python manage.py migrate
 
 create a django app (that will serve to integrate and create request)
     
     python manage.py startapp students
+
+create super user to access django
+
+    python manage.py createsuperuser
+        it will ask you for the name, email and password example: name artorias password 123
+        to access it enter the url/admin example http://127.0.0.1:8000/admin
+
+create dependencies file
+
+    pip freeze > requirements.txt
+
+install dependencies
+
+    pip install -r requirements.txt
 
 ## GO
 
