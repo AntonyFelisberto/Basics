@@ -2,3 +2,8 @@ __pycache__
 node_modules
 Django/db.sqlite3
 Django/students/migrations/__pycache__/__init__.cpython-311.pyc
+Django/db.sqlite3
+Django/api/migrations/__init__.py
+Django/students/migrations/__init__.py
+Django/students/migrations/0001_initial.py
+Django/students/migrations/__pycache__/__init__.cpython-311.pyc
