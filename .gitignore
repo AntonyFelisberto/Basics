@@ -1,2 +1,4 @@
 __pycache__
 node_modules
+Django/db.sqlite3
+Django/students/migrations/__pycache__/__init__.cpython-311.pyc
